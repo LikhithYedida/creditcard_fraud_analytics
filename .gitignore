@@ -1,0 +1,16 @@
+# Big raw / scored data – NOT tracked
+data/creditcard.csv
+data/creditcard_transactions.csv
+data/creditcard_transactions_scored.csv
+
+# Big Tableau packaged workbook
+tableau/Book1.twbx
+
+# Optional: ignore model binaries if you don’t want them in Git
+python/models/
+*.pkl
+
+# Usual stuff
+*.log
+.DS_Store
+Thumbs.db
